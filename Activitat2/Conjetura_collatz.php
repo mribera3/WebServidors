@@ -2,24 +2,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Comprovar divisors</title>
+<title>Conjentura collatz</title>
 </head>
 <body>
-<form action="comprovar_divisor.php" method="get" >
-	<label>Introdueix al número: </label>
-	<input type="text" name="num">
-	<input type="submit" value="Enviar">
-</form>
+<p align=center>
+<font face="arial" size=4 color=black>No tinc ni la més remota idea de com es fa, ja em sap greu Sergi...</font>
 <br>
-<a href="menu.php">Tornar al menú principal</a>   
-</body>
-</html><!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Conjetura collatz</title>
-</head>
-<body>
+</br>
 <a href="menu.php">Tornar al menú principal</a> 
 </body>
 </html>

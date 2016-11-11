@@ -5,7 +5,7 @@
 <title>Comprovar divisors</title>
 </head>
 <body>
-<form action="comprovar_divisor.php" method="get" >
+<form action="comprovar_divisor.php" method="get">
 	<label>Introdueix al número: </label>
 	<input type="text" name="num">
 	<input type="submit" value="Enviar">

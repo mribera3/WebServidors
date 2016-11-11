@@ -12,4 +12,4 @@
 </br>
 <a href="formulari_login.html"> Tornar a iniciar sessió.</a> 
 </body>
-</html> 
+</html>  
